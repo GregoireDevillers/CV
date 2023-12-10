@@ -1,0 +1,33 @@
+main{
+text-align:center;
+background-color:#AABBCC;
+color:#ff0000;}
+h2{
+color:#ff0000;}
+
+
+body{
+	background-color:#ADAAA9;}
+.img1{
+width : 300px;
+height : 300px;
+}
+.img2{
+width : 300px;
+height : 250px;
+}
+.img3{
+width : 300px;
+height : 250px;
+}
+.img4{
+width : 300px;
+height : 250px;
+}
+.img5{
+width : 300px;
+height : 250px;
+}
+.elem1{
+font-size: 1.3em;
+}
